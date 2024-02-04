@@ -6,13 +6,13 @@ Sou um entusiasta da tecnologia e estou embarcando na empolgante jornada da prog
 
 ## Habilidades em Desenvolvimento
 
-- **Linguagens de Programação:** Iniciante em JavaScript, Python
-- **Ferramentas e Tecnologias:** Aprendendo sobre HTML, CSS
+- **Linguagens de Programação:** Iniciante em JavaScript, Python, JAVA
+- **Ferramentas e Tecnologias:**  HTML, CSS , bootstrap , MySQL, DB Designer 
 - **Projetos em Andamento:** Explorando pequenos projetos para aplicar meus conhecimentos em prática.
 
 ## Objetivos Futuros
 
-Meu objetivo é continuar aprimorando minhas habilidades de programação, explorar diferentes áreas da tecnologia e, eventualmente, contribuir para projetos de código aberto. Estou animado para aprender e crescer nesta jornada empolgante!
+Meu objetivo é continuar aprimorando minhas habilidades de programação, explorar diferentes áreas da tecnologia e, eventualmente, contribuir para projetos de código aberto. Estou animado para aprender e crescer nesta jornada empolgante
 
 ## Contato
 
